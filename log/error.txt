@@ -1,0 +1,1017 @@
+----------------------------------------------------------------------------------------------------38	"The <e1>provinces</e1> are divided into <e2>counties</e2> (shahrestan), and subdivided into districts (bakhsh) and sub-districts (dehestan)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------67	"The first incarnation of this series was set in the 1940s, during World War II, when the <e1>princess</e1> left her native paradise <e2>island</e2> (where Amazon women had lived for centuries) to help the U.S. foil the Nazis."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------72	"Our mercenary Army has now degenerated into a Godless <e1>cabal</e1> of mindless <e2>killers</e2> not unlike the Soviets that were butchering civilians in Afghanistan (exactly as sadistically as we have)."
+
+
+----------------------------------------------------------------------------------------------------105	"The beautiful hydrothermal features in the park (geysers, hot springs, mud pots, etc.), the uplift and subsidence, and many of the <e1>earthquakes</e1> are caused by the <e2>movements</e2> of hydrothermal and/or magmatic fluids."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------108	"From the Scots (Lingle) and French (Ligneul, Lignoul), comes a <e1>shoemaker</e1>'s sewing <e2>thread</e2>, waxed and bristled (See Waxed End)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------118	"Paul Friedrich guides us through a <e1>babel</e1> of <e2>words</e2>, and worlds of the imagination ranging from his translations from five languages(notably the Russian of his literary studies) to the poetry of the Indian Mexico of his anthropological field work to America writ large -- super highways, a Vermont farm, father and child."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------141	"The <e1>formation</e1> of struvite <e2>stones</e2> is associated with the presence of urea-splitting bacteria, most commonly Proteus mirabilis (but also Klebsiella, Serratia, Providencia species)."
+
+
+----------------------------------------------------------------------------------------------------162	"Manufacturing extra neutral <e1>alcohol</e1> which is the basic ingredient used for making <e2>liquor</e2>, the commodity was largely used by companies making Indian Made Foreign Liquor (IMFL)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------186	"The <e1>nasal cavity</e1> of <e2>birds</e2> contains turbinates (Bang 1971), cartilaginous structures that are thought to have as one of their functions water recovery from air."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------189	"The World Health Organization(WHO) found that the <e1>radiation</e1> release from the Chernobyl <e2>accident</e2> was 200 times that of the Hiroshima and Nagasaki."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------293	"The <e1>chair</e1> of the <e2>corporation</e2>, at the time of election, shall be either a former President, the retiring President, or a member (not emeritus) of the Corporation."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------315	"The Aroon indicator <e1>system</e1> consists of two <e2>lines</e2>, 'Aroon(up)' and 'Aroon(down)'."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------330	"A normal beer is 8 zlots (2 euros) and a beer with <e1>raspberry</e1> <e2>syrup</e2> is 9 zlots."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------362	"In biological anatomy, the <e1>mesencephalon</e1> (or midbrain) comprises the <e2>tectum</e2> (or corpora quadrigemini), tegmentum, the ventricular mesocoelia (or "iter"), and the cerebral peduncles, as well as several nuclei and fasciculi."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------378	"This extensor <e1>mechanism</e1> is composed chiefly of the quadriceps femoris (rectus femoris, vastus lateralis, vastus intermedius, vastus medialis), quadriceps tendon, <e2>patella</e2>, and patellar tendon."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------426	"The screenplay by Patterson McNutt and Arthur J. Beckhard focuses on the adoption of a young <e1>orphan</e1> (Shirley Temple) by a wealthy <e2>bachelor</e2> (John Boles)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------459	"For many years, a recurring <e1>comment</e1> by the senior dental <e2>students</e2> at Louisiana State University School of Dentistry (LSUSD) during exit interviews is their lack of confidence regarding the business aspects of running a dental practice."
+
+
+----------------------------------------------------------------------------------------------------489	"<e1>Students</e1> locate these cities on the large map (B2) with assistance from the teacher (B14) marking them with colored <e2>pushpins</e2>."
+
+
+----------------------------------------------------------------------------------------------------569	"This <e1>bag</e1> was in a <e2>bin</e2> with other santa bags (out of package)."
+
+
+----------------------------------------------------------------------------------------------------593	"<e1>Sodium</e1> causes fluid <e2>retention</e2>, which can lead to edema (swelling), increased blood pressure, and in those susceptible patients, congestive heart failure."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------639	"Thus, we have set-up, early on, a familiar literary dynamic --- two <e1>compeers</e1> of different <e2>ages</e2> thrown together: Huck Finn and Nigger Jim, Holden Caufield and sister Phoebe, hell --- maybe even Dmitri Karamazov and Alyosha (or, if we stretch it far enough, Falstaff and Prince Hal)."
+
+
+----------------------------------------------------------------------------------------------------668	"<e1>Builders</e1> use a paste like <e2>adhesive</e2> (known in the building trade as mud) to fix the plasterboard to the wall."
+
+
+----------------------------------------------------------------------------------------------------718	"Today, it is most famous for proving sanctuary to a <e1>creep</e1> of giant <e2>tortoises</e2> (Geochelone gigantea), descendants of four gifted from the Seychellois governor to his opposite number in Zanzibar in the 18th century."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------746	"Also (on a proportional basis) the <e1>rainbow</e1> caused by the <e2>spray</e2> appeared smaller than that of the other rainbow."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------760	"<e1>Coconut</e1> <e2>oil</e2> is extracted from the kernel or meat of matured coconut harvested from the coconut palm (Cocos nucifera)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------772	"<e1>Weak ligaments</e1> are caused by <e2>problems</e2> with collagen (protein fibres in the ligaments)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------808	"The <e1>stapler</e1> comprises a stapling head (2) and an <e2>anvil</e2> (3)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------831	"Riviera holiday <e1>club</e1> consists of few <e2>hotels</e2> (look on the left part of the page) which are located on the beach, in a nice and quite park."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------878	"The enormous <e1>landslide</e1>, which was triggered by an exceptionally heavy <e2>rainfall</e2> event (500 mm in 24 h) on 30 October 1998."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------920	"The <e1>reaction</e1> starts at a rather low <e2>temperature</e2> ( + 5C), and the calorimeter is run from 40 to 130C."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------957	"The study found that people who took the <e1>combination</e1> of cholinesterase <e2>inhibitors</e2> (Aricept, Razadyne, or Exelon) and Memantine, showed a significantly slower rate of cognitve decline than those who took only a cholinesterase inhibitor or no drug."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------995	"<e1>Swelling</e1> of the resin is caused by the <e2>expansion</e2> of the structure as a result of water (or other liquid) molecules penetrating the matrix."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1077	"We assessed the efficacy of a recombinant <e1>vaccine</e1> consisting of <e2>outer-surface protein A</e2> (OspA) without adjuvant in subjects at risk for Lyme disease."
+
+
+----------------------------------------------------------------------------------------------------1218	"Nearly all sensory <e1>information</e1> (except the sense of smell) arrives here from the primary sensory <e2>neurons</e2> before being sent to the cortex."
+
+
+----------------------------------------------------------------------------------------------------1233	"<e1>Orange</e1> <e2>juice</e2> is a popular breakfast beverage made from the extraction (squeezing) of liquid from fresh oranges."
+
+
+----------------------------------------------------------------------------------------------------1257	"The <e1>clock</e1> has a LCD <e2>display</e2> with the following fields: DayOfWeek Date X Time (offset to utc)."
+
+
+----------------------------------------------------------------------------------------------------1280	"The end of the <e1>rod</e1> of the mute's <e2>spindle</e2> (outside the bassoon) is bent through an angle of 90 degrees, where the communicator-gearing leads up to it."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1292	"The <e1>violinist</e1> produces sound by drawing a <e2>bow</e2> across one or more strings (which may be stopped by the fingers of the other hand)."
+
+
+----------------------------------------------------------------------------------------------------1304	"The horizontal <e1>branch</e1> is a part of the Hertzsprung -Russell (H-R) <e2>diagram</e2> that represents stars that burn helium in thier cores."
+
+
+----------------------------------------------------------------------------------------------------1340	"Two other structures in the depth of the <e1>midbrain</e1> that are important for normal motor function are the red <e2>nucleus</e2> (not visible) and the substantia nigra."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1342	"A tealight, or nightlight, is a <e1>candle</e1> used in tea or food <e2>warmers</e2> or (because they last for many hours) as a night light."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1372	"The <e1>benefits</e1> from <e2>inflation</e2> which Professor Mulligan cites (e.g., bailing out underwater mortgagers) are better understood as a government sponsored transfer of wealth from savers to speculators."
+
+
+----------------------------------------------------------------------------------------------------1389	"A urinary tract <e1>infection</e1> (UTI) is the most common cause of bladder <e2>irritation</e2>."
+
+
+----------------------------------------------------------------------------------------------------1406	"Some posters (e.g. number 18) encouraged the population of areas near the front to evacuate, thus avoiding the overcrowding and ensuing problems of food distribution and <e1>disease</e1> caused by the incoming <e2>refugees</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1472	"The Kursk (RBMK) <e1>reactor</e1> was manufactured in a slurry-fed ceramic Joule-heated glass <e2>melter</e2>."
+
+
+----------------------------------------------------------------------------------------------------1491	"Erikson(1976) found that <e1>people</e1> from among a community who escaped an horrific <e2>accident</e2> had made little progress after two years."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1507	"The relying <e1>website</e1> then forms a relationship using a shared <e2>secret</e2> with help of Diffie-Hellman (encryption) key exchange to make sure information is not compromised in transit."
+
+
+----------------------------------------------------------------------------------------------------1535	"And the economic <e1>crisis</e1> was generated due to the sub-prime mortgage <e2>mess</e2> brought about through government intervention in the market to promote progressive ideals (ie extending loans to low-income borrowers)."
+
+
+----------------------------------------------------------------------------------------------------1567	"Missouri experienced growth in <e1>swine</e1> <e2>herd</e2> from 1990 to 2000 as did four nearby states (Iowa, Oklahoma, Kansas and Texas)."
+
+
+----------------------------------------------------------------------------------------------------1581	"They weave fine cloth, and they use the <e1>down</e1> of <e2>water-sheep</e2> in making it; it is called Hai-hsi-pu (cloth from the west of the sea)."
+
+
+----------------------------------------------------------------------------------------------------1603	"Wes Anderson has made one classic comedy(The Royal Tenenbaums) fueled by the <e1>tension</e1> from the characters' <e2>longings</e2> to burst out of the trappings in which they are framed."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1682	"Individuals were granted a <e1>wrack</e1> of <e2>rabbits</e2> and some help building a rabbit run in their backyard to start up a small rabbit farm (--40 rabbits and a hutch, perhaps?), along with automatic membership in a cooperative rabbit abatoir."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1702	"The midbrain dopaminergic (mDA) <e1>neurons</e1> of the <e2>substantia nigra</e2> and the ventral tegmental area play a fundamental role in the control of voluntary movement."
+
+
+----------------------------------------------------------------------------------------------------1719	"Sumatera (Yagasu) made a <e1>profit</e1> from the <e2>selling</e2> of women groups' handicrafts activities."
+
+
+----------------------------------------------------------------------------------------------------1797	"<e1>Rice</e1> <e2>spirits</e2> in Asia are almost always female and regarded as a kind of mother figure (thus, the connection to fertility and tossing it at the bride)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1837	"Throughout her career she has worked extensively with the California Department of Education and the Commission on Teacher Credentialing where she has been a contributing <e1>panel</e1> <e2>member</e2> on the writing of the California Subject Examination for Teachers (CSET), the California Music Standards, and the CalTPA, the California Teacher Preparation Assessment, as well as an evaluator for the Single Subject Music Preparation Submission Documents."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1874	"The <e1>president</e1> of this <e2>society</e2> is responsible for presiding over all meetings (both general and executive)."
+
+
+----------------------------------------------------------------------------------------------------1891	"This research aimed to select and validate a <e1>battery</e1> of outcome <e2>measures</e2> of recovery after lower limb burn injury (LLBI)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1909	"The steel Z-shaped <e1>stent</e1> was made with a steel guide <e2>wire</e2> (0.2 mm in diameter), covered with the vascular graft, and fixed to the graft wall with multiple interrupted sutures."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1923	"Among the Hittites there was only one queen consort, but the king had a <e1>harem</e1> of <e2>wives</e2> (free women) and of slave concubines also."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1937	"<e1>Listeners</e1> receive WBAI live over the <e2>internet</e2> (referred to as "streaming"), using one of the various audio formats below."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------1938	"The 100 MHz RF <e1>signal</e1> for the amplitude modulator was derived from a pulse pattern <e2>generator</e2> (PPG)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2022	"A <e1>pack</e1> of the most popular <e2>cigarettes</e2> in the Seychelles in 2008 cost $15 at purchasing-power parity (PPP)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2030	"The Banko <e1>kilns</e1> were founded by the <e2>potter</e2> Nunami Ro-zan (1718-77) who often imitated the work of Kenzan (1663-1743)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2075	"The "Intihuatana" (in Quechua = place where the sun is bonded) is a solar observatory that allowed the Incas to keep track of the seasons of the year and the flow of time based on the <e1>shadows</e1> caused by the <e2>sun</e2> over the stone."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2084	"The boost <e1>voltage</e1> is derived from a separate, external low-voltage <e2>source</e2> so as to meet the (VBOOST-. VSW) voltage requirement."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2123	"This panel once decorated the cover of a gospel <e1>book</e1> (now in the Hessisches Landesmuseum, Darmstadt) written and illuminated by a <e2>scribe</e2> named Liuthard."
+
+
+----------------------------------------------------------------------------------------------------2165	"<e1>Bed sores</e1> (also known as: pressure sores, decubitus ulcers or pressure ulcers) are caused by <e2>pressure</e2>, which cuts off blood flow to parts of the body."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2197	"The <e1>software</e1> lets the <e2>teleworker</e2> closely associate his IP soft phone with other public switched telephone network (PSTN) connections."
+
+
+----------------------------------------------------------------------------------------------------2219	"Using her tail, the <e1>female</e1> digs a trough-shaped <e2>nest</e2>, called a redd (Scandinavian word for "nest"), in the gravel of the stream bed."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2263	"They show that substantial <e1>intelligence</e1> was gained from pocket <e2>litter</e2> (materials found on detainees when they were captured)."
+
+
+----------------------------------------------------------------------------------------------------2300	"Therefore, a different method is used, involving a condom, some <e1>strawberry</e1> <e2>syrup</e2>, and a piece of 1/2" aluminium plating (not as kinky as it sounds)."
+
+
+----------------------------------------------------------------------------------------------------2337	"Beginning in 1939, the <e1>factory</e1>'s passenger <e2>cars</e2> were sold under the Moskvitch ("Muscovite") brand."
+
+
+----------------------------------------------------------------------------------------------------2349	"The <e1>installation</e1> powered a 100 horsepower (75 kW) synchronous <e2>motor</e2> at Telluride."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2411	"They were a loose <e1>confederacy</e1> of various Arab <e2>lineages</e2> who were forged together in the eighteenth century by a common way of life and amalgamated in the twentieth century under their famous Shaykh (Sir) 'Ali al-Tom (1874-1937)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2429	"The human psyche is seen to be a <e1>confederation</e1> of various <e2>aspects</e2> (e.g., cognition, affection, conation)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2442	"<e1>Acne</e1> is caused by <e2>clogging</e2> of sebaceous (oil producing) glands on the skin."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2521	"The key to Thirteen's return to form is having Danny Ocean (Clooney) and his merry <e1>ratpack</e1> of expert <e2>thieves</e2> and con men reteam in Las Vegas, site of their original big score in Eleven."
+
+
+----------------------------------------------------------------------------------------------------2522	"The Tafawa Balewa Square (TBS) in Lagos hosted a <e1>galaxy</e1> of <e2>events</e2> with tourism and culture activities as center of attraction."
+
+
+----------------------------------------------------------------------------------------------------2553	"This is another great new <e1>wheeze</e1> from the <e2>people</e2> who got rid of News at Ten in the first place (and then ended up bringing it back)."
+
+
+----------------------------------------------------------------------------------------------------2554	"Falconers send their dogs into the field to bark and cause the nearby <e1>covey</e1> of <e2>quail</e2> (or partridges) to take flight."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2610	"They also saw the birth of the Gelugpa <e1>school</e1> (also known as Yellow Hats) by the <e2>disciples</e2> of Tsongkhapa Lobsang Dragpa."
+
+
+----------------------------------------------------------------------------------------------------2622	"An early exit from support measures adopted in response to the global economic crisis could postpone a jobs recovery for years and render the fledgling economic upturn fragile and incomplete, a new <e1>report</e1> by the research <e2>arm</e2> of the International Labour Organization (ILO) says."
+
+
+----------------------------------------------------------------------------------------------------2651	"Celiac <e1>disease</e1> (CD) is an inflammatory disorder of the upper small intestine triggered by the <e2>ingestion</e2> of wheat, rye, barley, and possibly oat products."
+
+
+----------------------------------------------------------------------------------------------------2686	"The <e1>wallet</e1> contained a special BK <e2>dollar bill</e2> (legal tender), a $5 BK gift card and other random BK stuff."
+
+
+----------------------------------------------------------------------------------------------------2729	"<e1>Epogen</e1> is made from human <e2>plasma</e2> (part of the blood) and may contain viruses and other infectious agents that can cause disease."
+
+
+----------------------------------------------------------------------------------------------------2755	"An electro-magnetic motion-tracking system (Ascension Flock of Birds ) was installed in the <e1>ceiling</e1> of the <e2>cave</e2> to provide positional data."
+
+
+----------------------------------------------------------------------------------------------------2787	"Ovulation is the exit of a mature <e1>ova</e1> (egg) from the <e2>ovary</e2>."
+
+
+----------------------------------------------------------------------------------------------------2811	"The <e1>birthmarks</e1> are caused by <e2>expansions</e2> (dilations) in tiny blood vessels called capillaries."
+
+
+----------------------------------------------------------------------------------------------------2847	"<e1>Tofu</e1> (to-fu), or bean curd is a soft white food made by coagulating soy <e2>milk</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2894	"One small piece of fleece or other soft, slightly thick material (to protect your iPod from the <e1>rivet</e1> of the <e2>button</e2> on the inside of the pocket)."
+
+
+----------------------------------------------------------------------------------------------------2911	"The small store did an <e1>investment</e1> in a second <e2>drawer</e2> ("till") which was kept in the back and switched with the live till was a worthwhile one."
+
+
+----------------------------------------------------------------------------------------------------2923	"The <e1>eruption</e1> resulted in massive lahar <e2>flows</e2> (a mixture of ash, lava, rock and water), primarily in the Rio Montana and Marker watersheds."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------2951	"The noise <e1>signal</e1> was generated by a noise <e2>diode</e2> (ENR = 27 dB) and gated with a high-speed electronic switch."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3006	"The wooden <e1>rod</e1> is attached to the <e2>arm</e2> of the chair, which on my chair has an L-shaped opening (corner) under the armrest."
+
+
+----------------------------------------------------------------------------------------------------3023	"The dog clutch is a sliding selector mechanism which is splined to the output shaft, meaning that its <e1>hub</e1> has <e2>teeth</e2> that fit into slots (splines) on the shaft, forcing it to rotate with that shaft."
+
+
+----------------------------------------------------------------------------------------------------3089	"The <e1>principal</e1> is a member of the <e2>corporation</e2> (governing body) and is its main professional adviser."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3134	"The developed <e1>mechanism</e1> is composed of a dual coaxial high-precision <e2>goniometer</e2>, which has theta-in and theta-out axes with 0.0025" resolution, and two crystal mounts connected to the rotation axes (Fig. 1)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3188	"Tyra Banks and <e1>mob</e1> of <e2>women</e2> took over the streets of Union Square Monday (Aug 17) in New York City as they "flash danced" for a taping of The Tyra Banks Show."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3190	"The <e1>turtle</e1> was slowly pushing the jellyfish in front of his <e2>mouth</e2> (in the manner of a water-polo player controlling a ball), keeping his prey steady with his flippers."
+
+
+----------------------------------------------------------------------------------------------------3207	"An <e1>inflammation</e1> of the liver caused by the hepatitis A <e2>virus</e2> (HAV)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3252	"In his Running Film (1972), each shot lasts for ten seconds while a <e1>figure</e1> runs away from the <e2>camera</e2> as far as he can in the time."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3273	"The <e1>boat</e1> had set sail on Wednesday from the <e2>port</e2> of Kotorr (Monte Negro) and was making to southern coast of Italy."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3365	"<e1>Concrete</e1> is made from <e2>cement</e2>, aggregates (gravel and crush- ed stones) and water."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3381	"A few crappie on Tuesday (June 24) were found among flooded willow trees, presumably feeding on the recent <e1>hatch</e1> of <e2>mayflies</e2> (willow flies) that occurred on Sunday and Monday."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3410	"<e1>Lesions</e1> involving the medial part of the premotor cortex, the supplementary motor area (SMA) and the rear portion of the medial part of the precentral gyrus caused a contralateral, severe leg-predominant <e2>hemiplegia</e2>, distally predominant and a less severe proximal weakness of the arm."
+
+
+----------------------------------------------------------------------------------------------------3444	"But here is a <e1>jumper</e1> sewn by a <e2>daughter</e2> (Antoinette) for her mother."
+
+
+----------------------------------------------------------------------------------------------------3449	"The three <e1>ship</e1> <e2>fleet</e2> of Columbus consisted of two ships known as caravels (Pinta and Nina) and a larger ship which served as Columbus's flag ship."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3482	"It was a <e1>dispute</e1> discussing the <e2>question</e2> whether the language of the Greek people (Dimotiki) or a cultivated imitation of Ancient Greek (Katharevousa) should be the official language of the Greek nation."
+
+
+----------------------------------------------------------------------------------------------------3486	"One sad (excuse the pun) consequence is that a winter of suffering from SAD adds to the <e1>weight gain</e1> caused by the <e2>antidepressants</e2>."
+
+
+----------------------------------------------------------------------------------------------------3493	"In the shoulder joint, the humerus (upper arm bone) fits into the socket of the <e1>shoulder</e1> <e2>blade</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3500	"The <e1>unit</e1> consists of a mobile launcher, an <e2>interceptor</e2> and a command and control battle management and communication (C2BMC) system."
+
+
+----------------------------------------------------------------------------------------------------3508	"I remembered about a <e1>string</e1> of rosary <e2>beads</e2> my mother purchase for me from a young priest and I pulled them out of the nightstand, (where they had been for about 15 years)."
+
+
+----------------------------------------------------------------------------------------------------3648	"The <e1>thermocouple</e1> was in a <e2>box</e2> (to prevent it from being sprayed with liquid nitrogen) and in a small block of thermal insulation (to reduce excessive cycling)."
+
+
+----------------------------------------------------------------------------------------------------3673	"The <e1>handle</e1> of the <e2>stick</e2> was covered with plastic material for more durability (Figure - 3)."
+
+
+----------------------------------------------------------------------------------------------------3687	"Over the entrance to the left circular chapel is the <e1>tomb</e1> of Pius II (1475) finished by a <e2>follower</e2> of the Andrea Bregno."
+
+
+----------------------------------------------------------------------------------------------------3741	"Yet in Judd's <e1>stack</e1> of galvanized-iron <e2>boxes</e2>, all of the units are identical; they are set on the wall and separated, so that none is subordinated to another's weight (and also so that the space around them plays a role in the work equivalent to theirs); and their regular climb -- each of the twelve boxes is nine inches high, and they rest nine inches apart -- suggests an infinitely extensible series, denying the possibility of a crowning summit."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3743	"Under-keel clearances in the Panama Canal (PC) and the SLS were calculated for ship transits by comparison of elevations of the <e1>ship</e1>'s <e2>keel</e2> and channel bottom."
+
+
+----------------------------------------------------------------------------------------------------3746	"This reconstruction involved track removals, conversion of each deck (lower and upper) to one-way motor vehicle traffic, and the lowering of the lower <e1>deck</e1> of the <e2>bridge</e2> by 16 inches through the Yerba Buena Tunnel."
+
+
+----------------------------------------------------------------------------------------------------3774	"The complement <e1>system</e1> is important as part of the body's <e2>defense mechanism</e2> against infection (Fig. 8.2)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3776	"The reference <e1>signal</e1> was generated from an auxiliary <e2>photomultiplier</e2> (RCA 1P28) with a quantum counter."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3782	"The electromagnetic (EM) <e1>radiation</e1> from the <e2>sun</e2> arrives mostly in the form of visible and infrared wavelengths."
+
+
+----------------------------------------------------------------------------------------------------3829	"Other <e1>stations</e1> (and cable channels) have spawned imitation <e2>shows</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3835	"Cervical <e1>cancer</e1> is caused by <e2>infection</e2> with the human papillomavirus (HPV) and is one of the most common cancers in women in developing countries."
+
+
+----------------------------------------------------------------------------------------------------3845	"This year's Nobel Laureates in Physiology or Medicine made the remarkable and unexpected discovery that inflammation in the stomach (gastritis) as well as ulceration of the stomach or duodenum (peptic ulcer disease) is the result of an <e1>infection</e1> of the stomach caused by the <e2>bacterium</e2> Helicobacter pylori."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3846	"This <e1>theory</e1> focuses on <e2>computational tasks</e2>, and considers automated procedures (i.e., computing devices and algorithms) that may solve such tasks."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------3850	"There he received food, lodging (often sleeping under the <e1>counter</e1> in the <e2>shop</e2> itself), clothes, and instruction in the craft."
+
+
+----------------------------------------------------------------------------------------------------3893	"Becker & Castillo (1990) compared the root systems of three species of shrub or treelet with saplings of three tree <e1>species</e1> in the <e2>forest</e2> on Barro Colorado."
+
+
+----------------------------------------------------------------------------------------------------3940	"He resisted the urge to yank open at least a few bottles of 1787 Chateau Lafitte (as it was then spelled) and enjoy them with a brace of partridges or an <e1>ascension</e1> of <e2>larks</e2> or whatever the French were eating at the time."
+
+
+----------------------------------------------------------------------------------------------------4025	"It was formerly known as How Park, possibly through the early connexion of William de Ow with the parish, and had its origin in the charter of 1200 granting William Briwere the elder chase of hare, fox, cat and wolf through all the king's land (per totam terram nostram) and <e1>warren</e1> of <e2>hares</e2>, pheasants and partridges throughout all his own lands, as also licence to inclose two coppices, one of which was situated between King's Somborne and Stockbridge and the other was called How Wood."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4037	"The team prepared GIS precipitation and contour maps of the area (approximately 777 square miles) depicting the landforms and identifying the <e1>flooding</e1> and landslides caused by the <e2>rainfall</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4066	"In the sketch at right, the electromagnet formed by the <e1>coil</e1> of the <e2>rotor</e2> is represented as a permanent magnet, and the same torque (North attracts South) is seen to be that acting to align the central magnet."
+
+
+----------------------------------------------------------------------------------------------------4122	"In 1890, the <e1>nobleman</e1> organized and founded a sports <e2>organization</e2>, Union des Societes Francaises de Sports Athletiques (USFSA)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4169	"We also showed the presence of 22:6(n-3) in the <e1>liver</e1> and brain of weanling <e2>rats</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4194	"Rama Revealed (1993) is a <e1>science fiction</e1> <e2>novel</e2> by Arthur C. Clarke and Gentry Lee."
+
+
+----------------------------------------------------------------------------------------------------4230	"Another product from the <e1>factory</e1> was the Scandinavian <e2>padlock</e2> ("Polhem locks", Swedish: Polhemslas)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4287	"Both <e1>colds</e1> and flu cause <e2>inflammation</e2> of the mucous membranes (found in the nose, throat and mouth)."
+
+
+----------------------------------------------------------------------------------------------------4294	"<e1>Insects</e1> <e2>wings</e2> are very thin so the poor insect must beat (or flap) their wings very fast so that they can really take off to fly."
+
+
+----------------------------------------------------------------------------------------------------4389	"The <e1>rod</e1> of the <e2>damper</e2> passes thru the main stem, so you need to have a top nut with a hole in it (part 110 in the drawing)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4426	"The <e1>church</e1>, is a stunning onion-domed, golden-filigreed, jewel of a building built (1903-1912) by the Russian <e2>aristocracy</e2>."
+
+
+----------------------------------------------------------------------------------------------------4466	"At the end of 2004, a <e1>journalist</e1> from Dnevnik <e2>newspaper</e2>, Hristo Hristov, submitted a request to the Director of the National Intelligence Services(NIS)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4478	"In the beginning, a <e1>fire</e1> started from the ring <e2>area</e2> of a crude oil storage tank(33000kl)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4527	"Dr. Marshall is the discoverer of Helicobacter (H. pylori), the <e1>germ</e1> that causes peptic <e2>ulcer</e2>."
+
+
+----------------------------------------------------------------------------------------------------4533	"The dates for when the coral reefs had been living(125,000, 105,000, and 82,000 years ago) closely matched <e1>dates</e1> from Milankovitch <e2>cycles</e2> for times when the ice sheets should have been melted and the seas at their highest(127,000, 106,000, and 82,000 years ago)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4538	"NGU (NonGonococcal Urethritis) is an <e1>infection</e1> of the urethra caused by <e2>pathogens</e2> ( germs ) other than gonorrhea."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4570	"This storing capacity is due to the elasticity (flexibility to expand) of the <e1>walls</e1> of the <e2>veins</e2>."
+
+
+----------------------------------------------------------------------------------------------------4581	"Vinton (Vint) Cerf, along with Robert Kahn, is <e1>co-designer</e1> of the TCP/IP Internet network <e2>protocol</e2>."
+
+
+----------------------------------------------------------------------------------------------------4689	"The remainder of the <e1>breast</e1> is composed of connective <e2>tissue</e2> (collagen and elastin), adipose tissue (fat), and Cooper's ligaments."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4738	"The scale of such landslides on natural slopes can be large enough to devastate entire villages or towns, such as the Huascaran Avalanche triggered by the Peru earthquake (1970, Mw = 7.8), or the complex <e1>slides</e1> caused by the Alaska <e2>earthquake</e2> in 1964 (Ms = 8.4)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4759	"We feasted upon a <e1>meal</e1> sumptuously produced by our ever-wondrous <e2>chef</e2> (Issy) and then the games commenced."
+
+
+----------------------------------------------------------------------------------------------------4782	"About 40 <e1>animals</e1> in a <e2>herd</e2> of 3050 swine herd (approximately 1.3%) contracted the virus."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4784	"When the<e1>coil</e1> of the <e2>relay</e2> is at rest (not energized), the common terminal (30) and the normally closed terminal (87a) have continuity."
+
+
+----------------------------------------------------------------------------------------------------4796	"Over the next six years, the <e1>army</e1> built a <e2>wall</e2> 80 Roman miles long (117km or 73 modern miles), some 5 metres (15 feet) high, east to west from Wallsend to Bowness."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4820	"This paper discusses an on-line signature verification method based on angular direction of <e1>pen</e1> <e2>point</e2> movement (ADPM)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4842	"It is inherently no less silly to see a king in a pear (as all of France did) than to see a pear in a rabbit, a <e1>rabbit</e1> in a <e2>carafe</e2>, a carafe in a clock, and so on and so forth."
+
+
+----------------------------------------------------------------------------------------------------4851	"The <e1>palace</e1> was built by the <e2>lake</e2> during the reign of the Umayyad caliph al-Walid I (705-715 CE)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4870	"For the <e1>satellite</e1> with <e2>rotors</e2>, one must include the effects of p as well; this modification, consistent with (2.2), is given in (4.3)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4887	"As a noun, a <e1>tag</e1> is a basic element of the <e2>languages</e2> used to create web pages ( HTML) and similar languages such as XML."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4888	"As Zhivago (Omar Sharif) grabs her hand to help her aboard, she slips and seems to fall beneath the <e1>wheels</e1> of the <e2>train</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4922	"The <e1>charger</e1> was in a <e2>suitcase</e2> that was (and still is!) lost by the airline."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4955	"The pan-and-scan area (lighter shaded) is what is shown when your <e1>television</e1> <e2>screen</e2> is full."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------4998	"Flamenco and bullfight cultural icons such as the ghostly bullhorns of the bullfight, or the <e1>anvil</e1> of the Romani (gypsy) <e2>blacksmiths</e2> are used in these paintings to visually sing a seguiriyas."
+
+
+----------------------------------------------------------------------------------------------------5013	"The plasma <e1>membrane</e1> is composed of a double layer (bilayer) of <e2>lipids</e2>, oily substances found in all cells (see Figure 1)."
+
+
+----------------------------------------------------------------------------------------------------5060	"Thomas once found a <e1>clew</e1> of slow <e2>worms</e2> (about 8) under a stone."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5187	"My son (9 years old) has been complaining of pain on his <e1>jaw</e1> <e2>bone</e2> for a few weeks now."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5295	"The trio, the penguins, and a <e1>cartload</e1> of <e2>chimpanzees</e2> use the newly-fixed plane (which looks more like a helicopter) to come to the rescue."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5412	"Each airsoft pistol has a separate magazine for the bbs which is normally stored in the <e1>handgrip</e1> of the <e2>gun</e2> (just like the real thing)."
+
+
+----------------------------------------------------------------------------------------------------5423	"Bacteria and comedonal <e1>debris</e1> cause acne pimples or <e2>pustules</e2> (inflammatory lesions)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5480	"Many <e1>students</e1> participated in the tutoring <e2>programs</e2> funded by the legislation, but the controversial element was not the options for public schools or the tutoring program (both of which where never challenged)."
+
+
+----------------------------------------------------------------------------------------------------5484	"The <e1>receptor</e1> comprises four <e2>subunits</e2>, which are chemically identical but, surprisingly, are folded differently (see picture)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5524	"Welch shows how <e1>laws</e1> composed to incorporate rural <e2>workers</e2> in a controlled way became platforms for unexpected protest and political mobilization culminating in the 1963 Rural Laborer Statute (ETR)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5560	"Highly specialized <e1>workers</e1> situated alongside a series of rolling ramps built up a <e2>product</e2> such as (in Ford's case) an automobile."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5590	"The second primer <e1>set</e1> was derived from a specific variant surface glycoprotein(VSG) expression <e2>site</e2> where the SRA gene is expressed(R-ES)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5596	"I have blocked out the PIN <e1>code</e1> of the <e2>phone</e2> (Please do not give this code to the customer)."
+
+
+----------------------------------------------------------------------------------------------------5648	"A number of <e1>papers</e1> have emanated from this <e2>laboratory</e2> on the chemistry of dl-pinonic acid(I,) and dl-pinolic acid(II.A)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5654	"White and rose wines are served slightly chilled (around 10 C or 50 F) - one hour on the <e1>shelf</e1> of the <e2>refrigerator</e2> brings them to the right temperature."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5686	"The <e1>factory</e1>'s main products are brandy (Armenian cognac), wine and <e2>vodka</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5718	"When a key is pressed and the circuit is completed, the code generated is sent to the computer either via a <e1>keyboard</e1> <e2>cable</e2> (using on-off electrical pulses to represent bits) or over a wireless connection."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5720	"Rabbi was cured of a severe disorder of the bowels by drinking <e1>apple</e1> <e2>wine</e2> seventy years old, a Gentile having stored away 300 casks of it ('Ab. Zarah 40b)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5741	"This acoustic <e1>instrumental</e1> (which has always been one of my favorites), makes an abrupt departure from the band's <e2>signature</e2> and dark-sounding metal riffs."
+
+
+----------------------------------------------------------------------------------------------------5794	"I kept my mobile (cellphone) in the same <e1>pocket</e1> in my <e2>trousers</e2> (pants)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5802	"Having done this, the <e1>society</e1> of agents has constructed a valid <e2>plan</e2> to deliver the set of initial orders and has reached a state of equilibrium in the sense of (Ste90)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5804	"Most of the relevant <e1>theories</e1> were derived by the <e2>geodesist</e2> in his famous books "Die mathematischen und physikalischen Theorien der hoeheren Geodaesie" (1880)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5826	"The structure of the benthic boundary layer over a <e1>bed</e1> of <e2>mussels</e2> (Mytilus edulis) was investigated in a large racetrack flume."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5846	"Day two in the Sacred Valley began with a trip to a local Chicha (<e1>corn</e1> <e2>beer</e2>) brewery, but there was more there than just beer."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5884	"The Ca content in the <e1>corn</e1> <e2>flour</e2> has also a strong dependence on the pericarp thickness (Gutierrez et al., 2007)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5900	"One <e1>faction</e1> of netherwing <e2>dragons</e2>, named the Netherwing, were attacked by the Dragonmaw orcs of Shadowmoon Valley and many were enslaved by Zuluhed, including the female Karynaku (mate of Neltharaku) who was leader of the brood."
+
+
+----------------------------------------------------------------------------------------------------5914	"Note that the relevant superannuation fund(s) must be notified of the <e1>employee</e1>'s departure from the <e2>company</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5947	"One <e1>factory</e1>'s <e2>output</e2> or waste-product became the raw materials of another factory (preferably nearby)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------5979	"Here, we analysed changes in heterozygosity over time in an insular mouflon (Ovis aries) <e1>population</e1> founded by two <e2>individuals</e2> in 1957."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6014	"During the period of Professor Mikko Niemi (1965-1996) the focus of <e1>research</e1> was in <e2>male reproduction biology</e2>."
+
+
+----------------------------------------------------------------------------------------------------6050	"Mekong is a 35 percent (70 proof) <e1>rice</e1> <e2>whisky</e2> famous in Thailand as the drink of choice for the blue collar workforce."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6074	"This revolutionary <e1>system</e1> contains DVD's <e2>reference guides</e2>, phone and online support and much more (It's like having your own personal weight loss coach 24/7)."
+
+
+----------------------------------------------------------------------------------------------------6089	"The promotion of tourist attractions in Baracoa, the first <e1>village</e1> founded by the Spanish <e2>conquistadors</e2> in Cuba, is the main goal of the Tourist Information Center (INFOTUR) in that eastern city."
+
+
+----------------------------------------------------------------------------------------------------6112	"Congenital renal disease was detected in a <e1>flock</e1> of <e2>sheep</e2> in the English Midlands over 2 successive years (1982 and 1983)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6143	"Lycophytes are vascular plants in the class Lycopodiopsida, a division of vascular plants known as Pteridophytes (the <e1>ferns</e1> and their <e2>allies</e2>)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6146	"The root <e1>vocabulary</e1> was generated from the world's six most widely spoken <e2>languages</e2> (Chinese, Hindi/Urdu, English, Spanish, Arabic and Russian)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6229	"<e1>Light</e1> was composed of <e2>corpuscles</e2> (particles of matter) which were emitted in all directions from a source."
+
+
+----------------------------------------------------------------------------------------------------6251	"<e1>Listeners</e1> receive WBAI live over the internet (referred to as "streaming"), using one of the various audio <e2>formats</e2> below."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6295	"This <e1>apartment</e1> has a <e2>lounge area</e2> with 1 sofa bed and a separate bedroom with 1 double bed (twin beds not available)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6309	"In psychology, Eysenck Personality Questionnaire (EPQ) is a <e1>questionnaire</e1> to assess the personality <e2>traits</e2> of a person."
+
+
+----------------------------------------------------------------------------------------------------6332	"The studio picked up the sci-fi action <e1>spec</e1> by tyro <e2>scribe</e2> Chad St. John, and set up the project with Gianni Nunnari (300) at his Hollywood Gang shingle."
+
+
+----------------------------------------------------------------------------------------------------6364	"Some accounts detail the routine and perfunctory nature of arrest and proceedings against the <e1>riffraff</e1> of the "criminal <e2>classes</e2>" (Friedman and Percival)."
+
+
+----------------------------------------------------------------------------------------------------6402	"The drama unfolded shortly after 7pm last Tuesday (December 22), when Glyn saw that <e1>smoke</e1> was coming from a <e2>bonfire</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6454	"Alzheimer's disease is a degenerative brain <e1>disorder</e1> that results in <e2>memory loss</e2>, impaired thinking, difficulty finding the right word when speaking, and personality changes (see "Warning signs of Alzheimer's disease," below)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6466	"Butlers (sometimes known as a household managers) are respected as the <e1>head</e1> of the household <e2>staff</e2>."
+
+
+----------------------------------------------------------------------------------------------------6554	"Her unexpected <e1>elimination</e1> caused a <e2>riot</e2> on the Internet, and one blog site (SOHH.com) referred to her elimination episode as the one where the show lost all credibility."
+
+
+----------------------------------------------------------------------------------------------------6565	"In December, 1216, Pope Honorius III (1216 - 1227), the successor of Innocent III, approved Dominic's plan for an <e1>order</e1> of contemplative <e2>preachers</e2> exercising the priestly ministry and living in mendicant poverty."
+
+
+----------------------------------------------------------------------------------------------------6628	"A digital <e1>photo</e1> <e2>frame</e2> (also called digital media frame) is a picture frame that displays digital photos without the need to print them or use a computer."
+
+
+----------------------------------------------------------------------------------------------------6655	"The <e1>batteries</e1> developed by the <e2>team</e2> from Tel Aviv University (TAU) work in a different way than conventional batteries."
+
+
+----------------------------------------------------------------------------------------------------6763	"Milinkovich, executive director for life of the Eclipse Foundation (just kidding Mike) broke the <e1>news</e1> today in his <e2>blog</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6792	"The remaining <e1>settlers</e1> dug a 10 miles (16 km) <e2>ditch</e2> from the Sevier's east fork into Tropic Valley."
+
+
+----------------------------------------------------------------------------------------------------6799	"In this animation the incident <e1>wave</e1> is travelling from a high density <e2>region</e2> towards a low density (high wave speed) region."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------6845	"This <e1>course</e1> is part of the master of veterinary public health (MVPH) <e2>programme</e2> at Faculty of Life Sciences, University of Copenhagen, Denmark."
+
+
+----------------------------------------------------------------------------------------------------6974	"As part of their class, titled "Sustainable Building Design," the students analyze the <e1>components</e1> of the <e2>building</e2> that play a role in the structure's environmental impact, such as insulation, water usage and drainage, and the heating, ventilation and air conditioning (HVAC) system."
+
+
+----------------------------------------------------------------------------------------------------6988	"It took the <e1>mechanic</e1> less than 10 seconds (no exaggeration) to fix the lock with a <e2>screwdriver</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7003	"All the <e1>profits</e1> from the <e2>books</e2> listed below are donated to the Norman Historic Preservation Program, Inc. (NHPP) to be used toward the renovation of the old Norman High School as a children's educational center and museum."
+
+
+----------------------------------------------------------------------------------------------------7009	"In the 1940s and 50s the empty canal was used by a chemical and plastics company to dump nearly 20,000 tons (c.18,000 metric tons) of toxic waste; the <e1>waste</e1> was sealed in <e2>metal drums</e2> in a manner that has since been declared illegal."
+
+
+----------------------------------------------------------------------------------------------------7011	"The <e1>pouch</e1> is a distinguishing feature of female <e2>marsupials</e2> (and rarely in the males as in the water opossum and the extinct Thylacine)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7057	"From 1972 through 2000, Cassioli's design (or a slight modification) remained on the obverse with a custom <e1>design</e1> by the host <e2>city</e2> on the reverse."
+
+
+----------------------------------------------------------------------------------------------------7063	"I get severe headaches and <e1>dizziness</e1> from colas and <e2>drinks</e2> with nutrasweet (aspartame) and splenda (sucralose)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7112	"Although Harry noticed it during exercise, the change that was identified was the difference in muscular <e1>discomfort</e1> from the <e2>beginning</e2> of his training program (riding five miles per day) to his current status two months later."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7113	"During this procedure, the <e1>surgeon</e1> makes a small <e2>hole</e2> ("fenestration") in the baffle to help relieve the symptoms of the original heart disease."
+
+
+----------------------------------------------------------------------------------------------------7114	"Tim Boyle (1846) checks a <e1>flask</e1> that contains the dried cathode precursor <e2>powder</e2>."
+
+
+----------------------------------------------------------------------------------------------------7165	"The <e1>acid</e1> is kept in a level-controlled <e2>tank</e2> (with a controller and an alarm in the event of low acid level)."
+
+
+----------------------------------------------------------------------------------------------------7177	"Normally, the <e1>bone marrow</e1> produces <e2>stem cells</e2> (immature cells) that develop into mature blood cells."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7180	"The main cell types are fibroblasts, macrophages and adipocytes (the <e1>hypodermis</e1> contains 50% of <e2>body fat</e2>)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7255	"The <e1>monitor</e1> provides a quarterly <e2>report</e2> to the Chapter (or NEC)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7278	"The period of tumor <e1>shrinkage</e1> after radiation <e2>therapy</e2> is often long and varied (mean 29 months)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7296	"The <e1>move</e1> from binary <e2>access</e2> (yes or no) to fine-grained authorization betrays a shift in mindset: from a defensible perimeter to a qualifier that identifies who can access what room."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7356	"Their chemical <e1>activation</e1> by <e2>light</e2> (halogen, plasma, lasers, etc.) enhances their efficiency by reducing exposure time and number of appointments."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7442	"In prolific suspense novelist Johansen's energetic new Eve Duncan thriller (Countdown, 2005, etc.), the forensics <e1>sculptor</e1> makes a dangerous <e2>deal</e2> with a Colombian weapons dealer."
+
+
+----------------------------------------------------------------------------------------------------7455	"In the case of aerodynamic lift, the <e1>aircraft</e1> is kept in the <e2>air</e2> by wings or rotors (see aerodynamics)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7557	"I was trained as a <e1>vioin</e1> <e2>maker</e2>, over 20 years ago, and have built violins (baroque and classical), violas, cellos, viols da gamba, and viols d'amore."
+
+
+----------------------------------------------------------------------------------------------------7595	"Bottle aging, which is anaerobic (oxygen-free), is one of the reasons that people put <e1>wine</e1> in a <e2>cellar</e2> and let it age."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7609	"Other non-native species used in aquaculture are brook trout (Salvelinus fontinalis) and lake trout (Salvelinus namaycush), <e1>fishes</e1> that mainly has been farmed for stocking <e2>purposes</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7614	"The southern <e1>supercell</e1> produced the longest <e2>tornado track</e2> of the outbreak (tornado #4)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7616	"A sewing machine is a mechanical (or electromechanical) <e1>device</e1> that joins fabric using <e2>thread</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7636	"A <e1>biologist</e1> combines a range of diverse and distributed <e2>resources</e2> (databases, tools, instruments) to answer complex questions."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7689	"The <e1>hardcopy</e1> <e2>book</e2> (at an even higher price) and this one purchase ensures you are up to date with all future releases of the electronic book."
+
+
+----------------------------------------------------------------------------------------------------7691	"Monica Mullikin ('00) is working for Willis of Minneapolis as a catastrophe risk analyst for this <e1>reinsurance</e1> <e2>company</e2>."
+
+
+----------------------------------------------------------------------------------------------------7700	"She spread a cream wax, applied strips (the <e1>spa</e1> uses a stripless <e2>wax</e2> for the bikini), and removed them with such agility that we barely flinched."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7706	"A <e1>house</e1> that contains a minimum of three <e2>bedrooms</e2> and a maximum of seven bedrooms to include the proprietor's bedroom is considered to be a "B&B" (a Town or Country Home or a Farmhouse)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7708	"The <e1>soy milk</e1> makes a great coffee <e2>creamer</e2> (and with whatever else you can cook it)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7762	"The <e1>collaboration</e1> produced the PUMP(Pittsburg urban mathematics program) <e2>curriculum</e2>, which focuses on mathematical analyses of real-world situations, the use of computational tools, and on making algebra accessible to all students."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7809	"Some of the <e1>land</e1> was farmed for <e2>coffee</e2> in the past, but it is now mostly native vegetation (with some emergent trees)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7858	"The <e1>hostess</e1> made the following <e2>rules</e2>: no husband and wife could sit next to one another (to the right or to the left) and men had to alternate with women everywhere."
+
+
+----------------------------------------------------------------------------------------------------7917	"Surrounding each neuron there was a group of cells of the glial type (satellite cells), which together with the collagen <e1>fibres</e1> composed the <e2>glial capsule</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------7948	"A tokamak is a toroidal (doughnut shape) <e1>magnetic bottle</e1> that contains the <e2>fusion plasma</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------test--------------------------------------------------------------------------------------------------------------------------------------------8012	"On a friend's advice, I purchased a sauerkraut and <e1>kimchi</e1> <e2>maker</e2> here and it is just fabulous (and cheap too)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8133	"Unlike the forebrain (telencephalon or cerebrum) of mammals, birds, and fish, the <e1>forebrain</e1> of <e2>amphibians</e2> is similar across all three orders of amphibians: the anurons (frogs and toads), the urodiles (salamanders and newts), and the caecilians."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8206	"Tissues from the dorsal <e1>lobe</e1> of the <e2>pancreas</e2> of 8 starlings (Sturnus vulgaris) were examined electron microscopically using conventionally prepared samples."
+
+
+----------------------------------------------------------------------------------------------------8210	"The Order of Friars Minor Capuchin (OFM Cap) is an <e1>order</e1> of <e2>friars</e2> in the Roman Catholic Church, the chief and only permanent offshoot of the Franciscans."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8234	"All the decking on the ramps need to be replaced (for the second time) because of the <e1>damage</e1> caused by the <e2>misuse</e2> of the facility."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8238	"Broken <e1>bones</e1> (also called fractures) in the <e2>foot</e2> are very common."
+
+
+----------------------------------------------------------------------------------------------------8241	"Bist du bei mir (en: "Be thou with me") (BWV 508) is an <e1>aria</e1> by a German <e2>composer</e2> named Gottfried Heinrich Stoelzel."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8255	"<e1>Barrages</e1> make use of the potential <e2>energy</e2> in the difference in height (or head) between high and low tides."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8258	"A <e1>report</e1> by the <e2>commission</e2> forecasts that revenues of the nation's post and telecommunications sector will grow 22.4% year-on-year to 60 trillion dong ($3.75b) this year."
+
+
+----------------------------------------------------------------------------------------------------8377	"<e1>Neuralgia</e1> (TN) is the most common cause of chronic sinusitis <e2>headache</e2>."
+
+
+----------------------------------------------------------------------------------------------------8402	"The <e1>misinterpretation</e1> has been caused by the Italian <e2>word</e2> for vacuum tubes, which is valvole (or tubi a vuoto)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8425	"The <e1>search</e1> for the coefficients started at the higher <e2>scales</e2> (lower frequency) since there were fewer WTMM at higher scales."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8442	"The glass <e1>spindle</e1> of the <e2>areometer</e2> (see figure 2.3.39) is immersed in the liquid under analysis."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8499	"The small <e1>photoreceptors</e1> of the <e2>retina</e2> (the inner surface at the back of the eye) sense light and transmit impulses to the optic nerve."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8581	"A new Mechanobiology Research Centre of Excellence (RCE) aims to break new ground in the <e1>study</e1> of diseases through the <e2>mechanisms</e2> of cell and tissue."
+
+
+----------------------------------------------------------------------------------------------------8588	"The U.S. Transportation Security Administration (TSA) has lost a hard drive containing <e1>information</e1> about 100,000 former and current <e2>employees</e2>."
+
+
+----------------------------------------------------------------------------------------------------8600	"In the early years of the Monarchy there was only one <e1>legion</e1> of 3000 <e2>infantrymen</e2> (front soldiers) and 300 cavalry."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8642	"Under the ownership of Max Blanck and Isaac Harris, the <e1>factory</e1> produced women's <e2>blouses</e2> (known at the time as "shirtwaists")."
+
+
+----------------------------------------------------------------------------------------------------8652	"<e1>Heating</e1> with <e2>wood</e2> is environmentally appropriate (conditionally) and economically."
+
+
+----------------------------------------------------------------------------------------------------8667	"The <e1>strings</e1> of a <e2>guitar</e2> are normally tuned to fourths (excepting the G and B strings in standard tuning), as are the strings of the bass guitar and double bass."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8678	"A solid round <e1>bar</e1>, 32" long, is constructed from ductile <e2>steel</e2> (Syt=60 ksi, G=11.5 x 106 psi)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8679	"In the days before the Democratic Reform, the <e1>manor</e1> had included twenty-two <e2>smallholdings</e2>, six lots of grassland and farmland covering some 8600 Mu (1414.45 acres)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8741	"The man graciously put off feeding his <e1>muster</e1> of <e2>peacocks</e2> (yes, he's got them, and yes, a group of peacocks is called a muster) to chat."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8764	"Merlin Lindeman (animal sciences) then pooled their expertise to show that the <e1>caterpillars</e1> caused the <e2>disease</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8812	"We have recently determined the <e1>corruption</e1> was (ironically) triggered by the SMART <e2>utilities</e2>."
+
+
+----------------------------------------------------------------------------------------------------8836	"Line 3 (blue) completed part: from Egaleo to Doukissis Plakendias, where it connects with the new Suburban <e1>train</e1> from the <e2>airport</e2>."
+
+
+----------------------------------------------------------------------------------------------------8837	"They (the aquarium) were brushing the <e1>shark</e1>'s <e2>teeth</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8854	"Ceres is the largest known asteroid at approximately 950 km (590 miles) in diameter, and it lies in the <e1>belt</e1> of <e2>asteroids</e2> between Mars and Jupiter."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8947	"He sees <e1>taxation</e1> as a central instrument for the <e2>government</e2> (over and above revenue raising) especially for re-distribution of wealth."
+
+
+----------------------------------------------------------------------------------------------------8953	"The <e1>acidity</e1> is caused by the gradual buildup of <e2>carbon dioxide</e2> (CO2) in the atmosphere, dissolving into the oceans."
+
+
+----------------------------------------------------------------------------------------------------8957	"A <e1>faction</e1> of Sikh <e2>leaders</e2> took over a gurdwara in this Haryana town, which was controlled by Amritsar-based Shiromani Gurdwara Parbandhak Committee (SGPC)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8959	"When the loading time was completed, the sliding <e1>bar</e1> of the <e2>injector</e2> was displaced manually to the other resting position (dashed area)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------8998	"The skies were also filled with a <e1>desert</e1> of <e2>lapwings</e2> and a congregation of golden plover, mixed together in a cloud of birds which filled the sky as they escaped a passing (but unseen by me) predator."
+
+
+----------------------------------------------------------------------------------------------------9042	"The <e1>shop</e1> has since "fixed" the problem with a <e2>method</e2> of their own (with approval from FSA apparently) and i have the cranks on my bike ready to use."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9075	"The country was a <e1>confederation</e1> of various tribal <e2>peoples</e2> of Caucasian descent (closely associated with the Georgians and the peoples of the modern Russian North Caucasus)."
+
+
+----------------------------------------------------------------------------------------------------9083	"The <e1>flooding</e1>, caused by a <e2>cyclone</e2>, came on the heels of a prolonged drought, which destroyed 60 percent of Fiji's sugar cane crop last year and cost more than 50 million Fijian dollars (25 million US) in relief and rehabilitation."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9152	"The locking mechanism for a <e1>gear</e1> consists of a <e2>collar</e2> (or dog collar) on the shaft which is able to slide sideways so that teeth (or dogs) on its inner surface bridge two circular rings with teeth on their outer circumference: one attached to the gear, one to the shaft."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9183	"This group 0+ baby <e1>car</e1> <e2>seat</e2> fits easily into the car and connects to the Jane Powertwin Pro pushchair (sold separately) to make a travel system."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9224	"Bacterial <e1>infections</e1> of the ear result in <e2>malodor</e2>, excessive exudation (drainage of pus-like material), and ulceration."
+
+
+----------------------------------------------------------------------------------------------------9241	"The <e1>meal</e1> comprises: 1 portion of <e2>rice</e2> (bukhari / mandi / biryani); 1/4 roast chicken (leg and thigh / breast and wing); 1 small (handsized) box of dates."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9267	"The <e1>questionnaire</e1> comprises three <e2>sections</e2>: (i) the dissemination of budget information, (ii) the executive's annual budget proposal to the legislature and the availability of other information that would contribute to analysis of budget policies and practices and (iii) the four phases of the budget process."
+
+
+----------------------------------------------------------------------------------------------------9281	"This <e1>company</e1> has eluded from state budget fiscal <e2>obligations</e2> (VAT and profit tax) totalizing 2.183.351 lei."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9287	"The mid-oleic <e1>sunflower</e1> <e2>oil</e2> was compared to cottonseed (Gossypium spp.) oil, the "Gold Standard" for frying."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9293	"The <e1>cerebrum</e1> (the forebrain) is made up of the right and left cerebral <e2>hemispheres</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9307	"The Chinesischer Turm ("Chinese Tower") is a 25 metre high wooden structure, first constructed in 1789 to 1790, from a <e1>design</e1> by a Mannheimer military <e2>architect</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9310	"The newest <e1>moons</e1> were discovered by an international <e2>collaboration</e2> of astronomers, working in July at the Canada-France-Hawaii Telescope (CFHT)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9343	"In this study, <e1>flakeboard</e1> was produced from decommissioned <e2>guardrail</e2> posts that had been treated with chromated copper arsenate (CCA)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9369	"The inside of your <e1>nose</e1> is lined with a moist, thin layer of <e2>tissue</e2> called a mucous membrane (say: myoo-kus mem-brayne)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9428	"Value of information (VOI or VoI) is the amount a <e1>decision</e1> <e2>maker</e2> would be willing to pay for information prior to making a decision."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9433	"A <e1>tree</e1> growing in the <e2>woods</e2> often develops long roots (15 to 25 feet) rather than a compact root system in order to compete with the roots of existing trees."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9459	"They break down into different <e1>categories</e1>, including <e2>tourism</e2>, financial services (such as banks, insurance companies), shipping, telecommunications, labour money remitted by nationals working abroad), public services (such as health care, sanitation and education), and public utilities like water, electricity and gas."
+
+Tree.read(): expected 'end-of-string' but got ')'
+            at index 1229.
+                "...)))))))))))"
+                              ^
+----------------------------------------------------------------------------------------------------9466	"In the Terry Pratchett Discworld novel Feet of Clay (1996) a butcher, a baker and a <e1>candlestick</e1> <e2>maker</e2> (heads of their respective guilds) play important supporting roles."
+
+
+----------------------------------------------------------------------------------------------------9470	"The <e1>history</e1> has recently (2008) been set out in a <e2>book</e2> by Arnie Gibbons."
+
+
+----------------------------------------------------------------------------------------------------9619	""National Discourse" (1780) shows a stout British <e1>sailor</e1> with a <e2>cudgel</e2> staring down a relatively effete French seaman with a sword."
+
+
+----------------------------------------------------------------------------------------------------9650	"Amino acid synthesis is the set of biochemical <e1>processes</e1> (metabolic pathways) by which the various amino <e2>acids</e2> are produced from other compounds."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9669	"The paper presents a chemical composition analysis of the <e1>gases</e1> emanated from geothermal <e2>sources</e2> in the Herculane Spa area (Romania)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9681	"Chinese literature begins with ShiJing (Book of Odes), an <e1>anthology</e1> of <e2>songs</e2>, poems, and hymns."
+
+
+----------------------------------------------------------------------------------------------------9685	"Insert the oyster knife in the <e1>hinge</e1> of the <e2>oyster</e2> (Figure 1)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9705	"In this <e1>paper</e1> we describe the <e2>derivation</e2> of a blastocyst following heterologous nuclear transfer (NT) into a human oocyte."
+
+
+----------------------------------------------------------------------------------------------------9737	"The <e1>artwork</e1> and artifacts that make-up this <e2>exhibit</e2> give students the opportunity to physically and personally experience some of the things (and weight of the things) that "grunts" carried in Vietnam."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9779	"In late summer (July to September), the robins disperse and the Culex shift to feeding on humans, again despite the <e1>ubiquity</e1> of house <e2>sparrows</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9780	"<e1>Joint problems</e1> are caused by <e2>osteoarthitis</e2> (degenerative joint disease), subluxations, sprains, intervertebral disc."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9814	"Greene monitored a <e1>colony</e1> of <e2>rabbits</e2> over a long period of time (8-10 years)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------9860	"The first mechanism involves the exit of a <e1>solute</e1> from a <e2>micelle</e2> into the aqueous phase and its re-entry into another (or the same) micelle."
+
+
+----------------------------------------------------------------------------------------------------9914	"It is inherently no less silly to see a king in a pear (as all of France did) than to see a pear in a rabbit, a rabbit in a carafe, a <e1>carafe</e1> in a <e2>clock</e2>, and so on and so forth."
+
+
+----------------------------------------------------------------------------------------------------9934	"Venous insufficiency ( a failure of the valves in the <e1>veins</e1> of the <e2>leg</e2> that causes congestion and slowing of blood circulation in the veins )."
+
+list index out of range
+----------------------------------------------------------------------------------------------------9978	"The 400 V <e1>power supply</e1> (unstabilized) was derived from a conventional <e2>power-pack</e2> with n-filter."
+
+
+----------------------------------------------------------------------------------------------------9980	"We noted the <e1>tail</e1> of the <e2>shark</e2> curved to its left side (away from the camera) and moving to its right side (towards the camera)."
+
+
+----------------------------------------------------------------------------------------------------10026	"The <e1>generator</e1> creates electricity using much the same <e2>principle</e2> as the alternator on your car (depending on the turbine type)."
+
+
+----------------------------------------------------------------------------------------------------10083	"It was he who uncovered the Honours of Scotland (the crown jewels) in a locked room in the <e1>bowels</e1> of the <e2>castle</e2>, where they had been placed in 1707."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10091	"And for brunch, we had the cast iron pan ($20) as well as the banana pancakes with <e1>redcurrent</e1> <e2>syrup</e2> and caramelized bananas and walnuts ($13)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10223	"I am at my happiest when I am in a smoke-filled, crowded bar with the <e1>riffraff</e1> of <e2>savages</e2> I call my friends, our voices raised, our faces flushed, our speech slurred, as we strumble from one poorly constructed argument to the next half-baked bagful of lies (to quote Michael Jackson)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10250	"The Prince (Italian: Il Principe) is a political <e1>treatise</e1> by an Italian public servant and political <e2>theorist</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10251	"The <e1>communion</e1> of <e2>saints</e2> (in Latin, communio sanctorum) is the spiritual union of all Christians living and the dead, those on earth, in heaven and, in Catholic belief, in purgatory."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10253	"Steroid Nation (TM) is an online <e1>journal</e1> looking at the <e2>use</e2> of anabolic steroids in sports, youth, and society."
+
+
+----------------------------------------------------------------------------------------------------10301	"Several times a <e1>flock</e1> of wild <e2>ducks</e2> (Anas superciliosd) flew over, evidently making their way to the more open water- ways several miles west."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10361	"One of the best <e1>resources</e1> for <e2>programmers</e2> is the excellent (and free) book Small Memory by Charles Weir and James Noble."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10411	"Synaesthesia literally means '<e1>union</e1> of the <e2>senses</e2>' and is defined as the stimulation of one sensory modality by another (e.g., sound by vision)."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10473	"The <e1>blisters</e1> are caused by <e2>antibodies</e2> against desmogleins (Dsgs), which are glycoproteins present in the junctions between skin cells."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10501	"Three times (every 1200 years), the gods were distressed by the <e1>disturbance</e1> from human <e2>overpopulation</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10515	"In about 985 the Seljuk clan split off from the bulk of the Tokuz-Oghuz, a <e1>confederacy</e1> of nine <e2>clans</e2> long settled between the Aral and Caspian Seas, and set up camp on the right bank of the lower Syr Darya (Jaxartes), in the direction of Jend, near Kzyl Orda in present day south-central Kazakhstan where they were converted to Islam."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10524	"I had been constipated for over 30 years, had significant sleep requirements (average 9+ hours a night), and had recurring <e1>headaches</e1> from fatigue and <e2>allergies</e2>."
+
+
+----------------------------------------------------------------------------------------------------10576	"A preface (pronounced "preffus") is an introduction to a book written by the <e1>author</e1> of the <e2>book</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10592	"The <e1>mainspring</e1> in the automatic winding <e2>watch</e2> is designed to prevent over winding (with continuation of automatic winding) when the spring is fully wound."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10626	"The <e1>machine</e1> filters the hot oil through long lasting (12 months) polymer <e2>filters</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10642	"<e1>Endometriosis</e1> is the cause of pelvic pain (dysmenorrhea, dyspareunia) and <e2>infertility</e2> in more than 35% of women of reproductive age."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10692	"Two of the <e1>incidents</e1> resulted in fatal CO <e2>poisonings</e2> (COHb levels of 55% and 49% )."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10703	"In this excellent fourth Sunny Randall PI tale (after Shrink Rap), is shown how <e1>sadness</e1> leads to <e2>murder</e2>."
+
+Bad exit code from Stanford CoreNLP
+----------------------------------------------------------------------------------------------------10710	"Then there's a <e1>bloat</e1> of <e2>hippopotamuses</e2>, which is really quite insulting to full-figured hippopotami, who can look quite nice if they put flowers in their ears and become (old joke alert) hippypotamuses."
+
+Bad exit code from Stanford CoreNLP

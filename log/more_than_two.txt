@@ -1,0 +1,1 @@
+more_than_two ner in obj, sentence is : The <e1>booby trap</e1> Puller stepped on was made with a <e2>howitzer shell</e2>.----------------------------------------test----------------------------------------more_than_two ner in obj, sentence is : As late as the 1950s, for example, only one Mexican served as a <e1>policeman</e1> in the entire Chicago <e2>police force</e2>.
